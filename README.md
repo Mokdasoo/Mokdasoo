@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=242424&height=100&section=header&text=DONGGEUN'S%20GITHUB&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=242424&height=100&section=header&text=DONGGEUN'S%20GITHUB&fontSize=30&fontColor=ffffff)
 <div align="center">
     <h3><b>👋 안녕하세요!</b></h3>
     <p>제 이름은 이동근이고 리액트 네이티브 개발자가 되고 싶습니다!</p>
@@ -70,4 +70,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=rounded&color=242424&height=150&section=footer&text=O&fontSize=100&fontColor=696969)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=242424&height=150&section=footer&text=O&fontSize=100&fontColor=696969)
