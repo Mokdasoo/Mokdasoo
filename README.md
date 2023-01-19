@@ -56,7 +56,7 @@
 <p>모던 자바스크립트 Deep Dive</p>
 <p>JavaScript 알고리즘 & 자료구조</p>
 <h2>🌱 배우고 싶은 것들</h2>
-<p>Nest.js, PostgreSQL, AWS, Git & Github, Docker & Kubernetes </p>
+<p>React-Query, Nest.js, PostgreSQL, AWS, Git & Github, Docker & Kubernetes, flutter </p>
 <h2>📚 읽고 싶은 것들</h2>
 <p>
 • ＜좋은 서비스 디자인＞ 루 다운  
