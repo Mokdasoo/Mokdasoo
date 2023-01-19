@@ -6,7 +6,7 @@
 <p>리액트 네이티브, 타입스크립트 강의를 독학 후 </p>
 <p>풀스택으로 개인 앱 개발 프로젝트를 열심히 하고 있습니다.</p>
 <p>현재 첫 번째 프로젝트인 커쿠북(커플쿠폰북) 앱을 개발 후 android,ios 스토어에 출시 심사중에 있습니다.</p>
-<a>https://github.com/Mokdasoo/CouCuBook</a>
+<a href='https://github.com/Mokdasoo/CouCuBook'>커쿠북 깃허브 링크</a>
 <p></p>
 
 <br/>
