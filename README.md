@@ -42,15 +42,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <br/>
 <br/>
-<br/>
 <hr/>
 <br/>
 <br/>
-<br/>   
-  
-
-
-
 
 <h2>👀 현재 프로젝트 외 따로 공부중인 것</h2>
 <p>모던 자바스크립트 Deep Dive</p>
