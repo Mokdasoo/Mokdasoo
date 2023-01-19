@@ -1,18 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=242424&height=100&section=header&text=DONGGEUN'S%20GITHUB&fontSize=30&fontColor=ffffff)
 <div align="center">
-    <h3><b>👋 안녕하세요!</b></h3>
-    <p>제 이름은 이동근이고 리액트 네이티브 개발자가 되고 싶습니다!</p>
-    <p>현재는 청년취업사관학교 웹풀스택 교육과정 22.6.29~22.12.30 을 마치고 </p>
-    <p>리액트 네이티브, 타입스크립트 강의를 독학 후 </p>
-    <p>앱 개발 프로젝트를 열심히 풀스택으로 하고 있습니다.</p>
-    <p>현재 첫 번째 프로젝트인 커쿠북(커플쿠폰북) 앱을 개발 후 출시 심사중에 있습니다.</p>
-    <a>https://github.com/Mokdasoo/CouCuBook</a>
-    <p></p>
+<h3><b>👋 안녕하세요!</b></h3>
+<p>제 이름은 이동근이고 리액트 네이티브 개발자가 되고 싶습니다!</p>
+<p>현재는 청년취업사관학교 웹풀스택 교육과정 22.6.29~22.12.30 을 마치고 </p>
+<p>리액트 네이티브, 타입스크립트 강의를 독학 후 </p>
+<p>앱 개발 프로젝트를 열심히 풀스택으로 하고 있습니다.</p>
+<p>현재 첫 번째 프로젝트인 커쿠북(커플쿠폰북) 앱을 개발 후 출시 심사중에 있습니다.</p>
+<a>https://github.com/Mokdasoo/CouCuBook</a>
+<p></p>
 
 <br/>
 <br/>
 <h3>
-    <b>💻 Tech Stack</b>
+<b>💻 Tech Stack</b>
 </h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
