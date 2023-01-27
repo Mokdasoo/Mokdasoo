@@ -49,8 +49,9 @@
 <h2>👀 현재 프로젝트 외 따로 공부중인 것</h2>
 <p>모던 자바스크립트 Deep Dive</p>
 <p>JavaScript 알고리즘 & 자료구조</p>
+<p>PostgreSQL, AWS, Git & Github, Docker & Kubernetes</p>
 <h2>🌱 배우고 싶은 것들</h2>
-<p>React-Query, Nest.js, PostgreSQL, AWS, Git & Github, Docker & Kubernetes, flutter </p>
+<p>React-Query, Nest.js, flutter </p>
 <h2>📚 읽고 싶은 것들</h2>
 <p>
 • ＜좋은 서비스 디자인＞ 루 다운  
