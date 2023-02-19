@@ -1,14 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=242424&height=100&section=header&text=DONGGEUN'S%20GITHUB&fontSize=30&fontColor=ffffff)
 <div align="center">
 <h3><b>👋 안녕하세요!</b></h3>
-<p>제 이름은 이동근이고 리액트 네이티브 개발자가 되고 싶습니다!</p>
-<p>현재는 청년취업사관학교 웹풀스택 교육과정 22.6.29~22.12.30 을 마치고 </p>
-<p>리액트 네이티브, 타입스크립트 강의를 독학 후 </p>
-<p>풀스택으로 개인 앱 개발 프로젝트를 열심히 하고 있습니다.</p>
-<p>첫 번째 프로젝트인 커쿠북(커플쿠폰북) 앱을 개발 후 구글플레이스토어, 앱스토어에 동시 출시, 유지 보수 중이며</p>
-<a href='https://github.com/Mokdasoo/CouCuBook'>커쿠북 깃허브 링크</a>
-<p>열심히 취준 생활 보내고 있습니다.</p>
-
+<p>제 이름은 이동근이고 리액트 네이티브 개발자입니다!</p>
 <br/>
 <br/>
 <h3>
@@ -51,7 +44,7 @@
 <p>JavaScript 알고리즘 & 자료구조</p>
 <p>PostgreSQL, AWS, Git & Github, Docker & Kubernetes</p>
 <h2>🌱 배우고 싶은 것들</h2>
-<p>React-Query, Nest.js, flutter </p>
+<p>React-Query, Recoil, Nest.js, flutter </p>
 <h2>📚 읽고 싶은 것들</h2>
 <p>
 • ＜좋은 서비스 디자인＞ 루 다운  
