@@ -47,13 +47,6 @@
 <p>React-Query, Recoil, Nest.js, flutter </p>
 <h2>📚 읽고 싶은 것들</h2>
 <p>
-• ＜좋은 서비스 디자인＞ 루 다운  
-
-• ＜테스트 주도 개발＞ 켄트 벡  
-
-• A Complete Guide to Flexbox  
-
-• ＜리액트 네이티브를 다루는 기술＞ 김민준  
 
 </p>
 </div>
